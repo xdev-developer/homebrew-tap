@@ -11,3 +11,8 @@ brew install gen4s
 ```shell
 HOMEBREW_NO_INSTALL_FROM_API=1 brew reinstall --build-from-source --verbose --debug ./Formula/gen4s.rb
 ```
+
+## Tests
+```shell
+HOMEBREW_NO_INSTALL_FROM_API=1 brew test  --verbose --debug ./Formula/gen4s.rb
+```

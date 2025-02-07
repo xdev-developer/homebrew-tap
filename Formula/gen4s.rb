@@ -1,9 +1,9 @@
 class Gen4s < Formula
   desc "Data generator tool for developers and QA engineers"
   homepage "https://github.com/xdev-developer/gen4s"
-  url "https://github.com/xdev-developer/gen4s/releases/download/release-v0.0.20/gen4s-app-0.0.20.zip"
-  version "0.0.20"
-  sha256 "e2ef070c560f3ab53f828f84f13a2050af0787a566b67e6e2ae199c33623fcde"
+  url "https://github.com/xdev-developer/gen4s/releases/download/release-v0.1.0/gen4s-app-0.1.0.zip"
+  version "0.1.0"
+  sha256 "5041578805455473ce9ac79d64d835823b42088d2aa21979d6359e17083fa2c1"
 
   depends_on "openjdk"
 
